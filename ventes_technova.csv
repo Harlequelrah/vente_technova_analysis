@@ -1,0 +1,504 @@
+id_commande,date_achat,nom_produit,quantite,mode_paiement,ville_client,delai_livraison_jours,prix_unitaire
+10001,2025-04-12,Smartphone X,2,Carte Bleue,Paris,3,799.0
+10002,2025-08-22,Casque Sans Fil,1,PayPal,Lyon,5,150.0
+10003,2025-01-05,Souris Gaming,3,Carte Bleue,Lille,2,50.0
+10004,2025-11-30,Ecran 27 pouces,1,Apple Pay,Marseille,7,300.0
+10005,2025-06-15,Clavier Mécanique,1,Carte Bleue,Bordeaux,4,80.0
+10006,2025-03-02,Smartphone X,1,PayPal,Paris,2,799.0
+10007,2025-09-10,Enceinte Bluetooth,2,Carte Bleue,Lyon,6,120.0
+10008,2025-12-25,Casque Sans Fil,4,Apple Pay,Lille,1,150.0
+10009,2025-02-14,Souris Gaming,1,Carte Bleue,Marseille,3,
+10010,2025-05-20,Ecran 27 pouces,2,PayPal,Bordeaux,5,300.0
+10011,2025-07-08,Clavier Mécanique,3,Carte Bleue,Paris,4,80.0
+10012,2025-10-31,Smartphone X,1,Apple Pay,Lyon,8,799.0
+10013,2025-01-20,Enceinte Bluetooth,1,Carte Bleue,Lille,2,120.0
+10014,2025-04-05,Casque Sans Fil,2,PayPal,Marseille,3,150.0
+10015,2025-08-12,Souris Gaming,1,Carte Bleue,Bordeaux,5,
+10016,2025-06-30,Ecran 27 pouces,1,Apple Pay,Paris,6,300.0
+10017,2025-03-18,Clavier Mécanique,2,Carte Bleue,Lyon,2,80.0
+10018,2025-09-22,Smartphone X,1,PayPal,Lille,4,799.0
+10019,2025-11-05,Enceinte Bluetooth,3,Carte Bleue,Marseille,1,120.0
+10020,2025-02-28,Casque Sans Fil,1,Apple Pay,Bordeaux,7,150.0
+10021,2025-05-14,Souris Gaming,2,Carte Bleue,Paris,3,50.0
+10022,2025-07-22,Ecran 27 pouces,1,PayPal,Lyon,4,300.0
+10023,2025-12-01,Clavier Mécanique,4,Apple Pay,Lille,2,80.0
+10024,2025-01-15,Smartphone X,1,Carte Bleue,Marseille,5,799.0
+10025,2025-03-30,Enceinte Bluetooth,2,PayPal,Bordeaux,6,120.0
+10026,2025-09-12,Casque Sans Fil,1,Carte Bleue,Paris,3,150.0
+10027,2025-08-05,Souris Gaming,3,Apple Pay,Lyon,2,50.0
+10028,2025-10-18,Ecran 27 pouces,1,Carte Bleue,Lille,7,300.0
+10029,2025-04-25,Clavier Mécanique,2,PayPal,Marseille,4,80.0
+10030,2025-02-10,Smartphone X,1,Carte Bleue,Bordeaux,5,799.0
+10031,2025-06-20,Enceinte Bluetooth,1,Apple Pay,Paris,3,120.0
+10032,2025-11-15,Casque Sans Fil,2,Carte Bleue,Lyon,6,150.0
+10033,2025-01-25,Souris Gaming,1,PayPal,Lille,2,50.0
+10034,2025-08-30,Ecran 27 pouces,3,Carte Bleue,Marseille,4,300.0
+10035,2025-05-12,Clavier Mécanique,1,Apple Pay,Bordeaux,5,
+10036,2025-03-25,Smartphone X,2,Carte Bleue,Paris,7,799.0
+10037,2025-09-05,Enceinte Bluetooth,1,PayPal,Lyon,2,120.0
+10038,2025-12-12,Casque Sans Fil,3,Carte Bleue,Lille,4,150.0
+10039,2025-02-05,Souris Gaming,1,Apple Pay,Marseille,6,50.0
+10040,2025-07-20,Ecran 27 pouces,2,Carte Bleue,Bordeaux,3,300.0
+10041,2025-10-10,Clavier Mécanique,1,PayPal,Paris,4,80.0
+10042,2025-04-02,Smartphone X,3,Carte Bleue,Lyon,5,799.0
+10043,2025-01-18,Enceinte Bluetooth,1,Apple Pay,Lille,2,120.0
+10044,2025-08-25,Casque Sans Fil,2,Carte Bleue,Marseille,6,150.0
+10045,2025-11-10,Souris Gaming,1,PayPal,Bordeaux,7,50.0
+10046,2025-05-25,Ecran 27 pouces,4,Carte Bleue,Paris,3,300.0
+10047,2025-03-08,Clavier Mécanique,2,Apple Pay,Lyon,5,80.0
+10048,2025-09-28,Smartphone X,1,Carte Bleue,Lille,4,799.0
+10049,2025-12-05,Enceinte Bluetooth,2,PayPal,Marseille,2,
+10050,2025-02-18,Casque Sans Fil,1,Carte Bleue,Bordeaux,6,150.0
+10051,2025-07-12,Souris Gaming,3,Apple Pay,Paris,3,50.0
+10052,2025-01-30,Ecran 27 pouces,1,Carte Bleue,Lyon,4,300.0
+10053,2025-10-05,Clavier Mécanique,2,PayPal,Lille,5,80.0
+10054,2025-04-15,Smartphone X,1,Carte Bleue,Marseille,6,799.0
+10055,2025-08-18,Enceinte Bluetooth,1,Apple Pay,Bordeaux,2,120.0
+10056,2025-06-05,Casque Sans Fil,2,Carte Bleue,Paris,5,150.0
+10057,2025-11-25,Souris Gaming,1,PayPal,Lyon,3,50.0
+10058,2025-02-12,Ecran 27 pouces,3,Carte Bleue,Lille,7,300.0
+10059,2025-09-15,Clavier Mécanique,1,Apple Pay,Marseille,4,80.0
+10060,2025-05-30,Smartphone X,2,Carte Bleue,Bordeaux,5,
+10061,2025-01-10,Enceinte Bluetooth,4,PayPal,Paris,6,120.0
+10062,2025-03-12,Casque Sans Fil,1,Carte Bleue,Lyon,2,150.0
+10063,2025-08-08,Souris Gaming,2,Apple Pay,Lille,4,50.0
+10064,2025-10-25,Ecran 27 pouces,1,Carte Bleue,Marseille,3,300.0
+10065,2025-04-20,Clavier Mécanique,3,PayPal,Bordeaux,6,80.0
+10066,2025-12-18,Smartphone X,1,Carte Bleue,Paris,5,799.0
+10067,2025-02-25,Enceinte Bluetooth,2,Apple Pay,Lyon,4,120.0
+10068,2025-07-05,Casque Sans Fil,1,Carte Bleue,Lille,7,150.0
+10069,2025-09-30,Souris Gaming,4,PayPal,Marseille,2,50.0
+10070,2025-11-12,Ecran 27 pouces,1,Carte Bleue,Bordeaux,5,300.0
+10071,2025-06-12,Clavier Mécanique,2,Apple Pay,Paris,3,80.0
+10072,2025-03-05,Smartphone X,1,Carte Bleue,Lyon,6,799.0
+10073,2025-01-14,Enceinte Bluetooth,3,PayPal,Lille,4,120.0
+10074,2025-08-15,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10075,2025-10-02,Souris Gaming,2,Apple Pay,Bordeaux,2,
+10076,2025-04-28,Ecran 27 pouces,1,Carte Bleue,Paris,7,300.0
+10077,2025-12-28,Clavier Mécanique,4,PayPal,Lyon,3,80.0
+10078,2025-02-15,Smartphone X,1,Carte Bleue,Lille,6,799.0
+10079,2025-07-25,Enceinte Bluetooth,1,Apple Pay,Marseille,4,120.0
+10080,2025-11-08,Casque Sans Fil,2,Carte Bleue,Bordeaux,5,150.0
+10081,2025-05-05,Souris Gaming,1,PayPal,Paris,6,50.0
+10082,2025-03-20,Ecran 27 pouces,3,Carte Bleue,Lyon,2,300.0
+10083,2025-09-18,Clavier Mécanique,1,Apple Pay,Lille,4,80.0
+10084,2025-01-22,Smartphone X,2,Carte Bleue,Marseille,7,799.0
+10085,2025-08-02,Enceinte Bluetooth,1,PayPal,Bordeaux,3,120.0
+10086,2025-10-15,Casque Sans Fil,4,Carte Bleue,Paris,5,150.0
+10087,2025-04-10,Souris Gaming,1,Apple Pay,Lyon,6,50.0
+10088,2025-12-20,Ecran 27 pouces,2,Carte Bleue,Lille,2,300.0
+10089,2025-02-02,Clavier Mécanique,1,PayPal,Marseille,4,80.0
+10090,2025-07-15,Smartphone X,3,Carte Bleue,Bordeaux,7,
+10091,2025-11-02,Enceinte Bluetooth,1,Apple Pay,Paris,5,120.0
+10092,2025-06-25,Casque Sans Fil,2,Carte Bleue,Lyon,4,150.0
+10093,2025-01-12,Souris Gaming,1,PayPal,Lille,3,50.0
+10094,2025-08-28,Ecran 27 pouces,4,Carte Bleue,Marseille,6,300.0
+10095,2025-03-15,Clavier Mécanique,1,Apple Pay,Bordeaux,2,80.0
+10096,2025-10-20,Smartphone X,2,Carte Bleue,Paris,5,799.0
+10097,2025-04-05,Enceinte Bluetooth,1,PayPal,Lyon,7,120.0
+10098,2025-12-08,Casque Sans Fil,3,Carte Bleue,Lille,4,150.0
+10099,2025-02-22,Souris Gaming,1,Apple Pay,Marseille,3,50.0
+10100,2025-07-30,Ecran 27 pouces,2,Carte Bleue,Bordeaux,6,300.0
+10001,2025-04-12,Smartphone X,2,Carte Bleue,Paris,3,799.0
+10002,2025-08-22,Casque Sans Fil,1,PayPal,Lyon,5,150.0
+10101,2025-05-18,Clavier Mécanique,1,PayPal,Paris,4,80.0
+10102,2025-01-08,Smartphone X,2,Carte Bleue,Lyon,5,799.0
+10103,2025-08-12,Enceinte Bluetooth,3,Apple Pay,Lille,2,120.0
+10104,2025-11-20,Casque Sans Fil,1,Carte Bleue,Marseille,6,150.0
+10105,2025-06-30,Souris Gaming,2,PayPal,Bordeaux,3,50.0
+10106,2025-03-10,Ecran 27 pouces,1,Carte Bleue,Paris,7,300.0
+10107,2025-09-25,Clavier Mécanique,3,Apple Pay,Lyon,4,80.0
+10108,2025-02-14,Smartphone X,1,Carte Bleue,Lille,5,799.0
+10109,2025-07-08,Enceinte Bluetooth,2,PayPal,Marseille,2,120.0
+10110,2025-12-05,Casque Sans Fil,1,Carte Bleue,Bordeaux,6,150.0
+10111,2025-04-22,Souris Gaming,4,Apple Pay,Paris,3,50.0
+10112,2025-10-12,Ecran 27 pouces,1,Carte Bleue,Lyon,4,300.0
+10113,2025-01-28,Clavier Mécanique,2,PayPal,Lille,5,
+10114,2025-08-05,Smartphone X,1,Carte Bleue,Marseille,6,799.0
+10115,2025-11-15,Enceinte Bluetooth,1,Apple Pay,Bordeaux,2,120.0
+10116,2025-05-25,Casque Sans Fil,3,Carte Bleue,Paris,5,150.0
+10117,2025-03-22,Souris Gaming,1,PayPal,Lyon,3,50.0
+10118,2025-09-08,Ecran 27 pouces,2,Carte Bleue,Lille,7,300.0
+10119,2025-12-18,Clavier Mécanique,1,Apple Pay,Marseille,4,80.0
+10120,2025-02-28,Smartphone X,2,Carte Bleue,Bordeaux,5,799.0
+10121,2025-07-20,Enceinte Bluetooth,1,PayPal,Paris,6,120.0
+10122,2025-04-12,Casque Sans Fil,2,Carte Bleue,Lyon,2,150.0
+10123,2025-10-31,Souris Gaming,1,Apple Pay,Lille,4,50.0
+10124,2025-01-20,Ecran 27 pouces,3,Carte Bleue,Marseille,3,300.0
+10125,2025-08-22,Clavier Mécanique,1,PayPal,Bordeaux,6,80.0
+10126,2025-11-05,Smartphone X,1,Carte Bleue,Paris,5,799.0
+10127,2025-06-15,Enceinte Bluetooth,2,Apple Pay,Lyon,4,120.0
+10128,2025-03-02,Casque Sans Fil,1,Carte Bleue,Lille,7,150.0
+10129,2025-09-10,Souris Gaming,3,PayPal,Marseille,2,50.0
+10130,2025-12-25,Ecran 27 pouces,1,Carte Bleue,Bordeaux,5,300.0
+10131,2025-02-10,Clavier Mécanique,2,Apple Pay,Paris,3,80.0
+10132,2025-07-05,Smartphone X,1,Carte Bleue,Lyon,6,
+10133,2025-11-12,Enceinte Bluetooth,4,PayPal,Lille,4,120.0
+10134,2025-05-30,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10135,2025-03-12,Souris Gaming,2,Apple Pay,Bordeaux,2,50.0
+10136,2025-08-08,Ecran 27 pouces,1,Carte Bleue,Paris,7,300.0
+10137,2025-10-25,Clavier Mécanique,3,PayPal,Lyon,3,80.0
+10138,2025-04-20,Smartphone X,1,Carte Bleue,Lille,6,799.0
+10139,2025-12-18,Enceinte Bluetooth,1,Apple Pay,Marseille,4,120.0
+10140,2025-02-25,Casque Sans Fil,2,Carte Bleue,Bordeaux,5,150.0
+10141,2025-07-12,Souris Gaming,1,PayPal,Paris,6,50.0
+10142,2025-01-30,Ecran 27 pouces,3,Carte Bleue,Lyon,2,300.0
+10143,2025-10-05,Clavier Mécanique,1,Apple Pay,Lille,4,80.0
+10144,2025-04-15,Smartphone X,2,Carte Bleue,Marseille,7,799.0
+10145,2025-08-18,Enceinte Bluetooth,1,PayPal,Bordeaux,3,120.0
+10146,2025-06-05,Casque Sans Fil,4,Carte Bleue,Paris,5,150.0
+10147,2025-11-25,Souris Gaming,1,Apple Pay,Lyon,6,50.0
+10148,2025-02-12,Ecran 27 pouces,2,Carte Bleue,Lille,2,300.0
+10149,2025-09-15,Clavier Mécanique,1,PayPal,Marseille,4,80.0
+10150,2025-05-12,Smartphone X,3,Carte Bleue,Bordeaux,7,799.0
+10151,2025-03-25,Enceinte Bluetooth,1,Apple Pay,Paris,5,120.0
+10152,2025-09-05,Casque Sans Fil,2,Carte Bleue,Lyon,4,150.0
+10153,2025-12-12,Souris Gaming,1,PayPal,Lille,3,50.0
+10154,2025-02-05,Ecran 27 pouces,4,Carte Bleue,Marseille,6,300.0
+10155,2025-07-20,Clavier Mécanique,1,Apple Pay,Bordeaux,2,80.0
+10156,2025-10-10,Smartphone X,2,Carte Bleue,Paris,5,799.0
+10157,2025-04-02,Enceinte Bluetooth,1,PayPal,Lyon,7,120.0
+10158,2025-01-18,Casque Sans Fil,3,Carte Bleue,Lille,4,150.0
+10159,2025-08-25,Souris Gaming,1,Apple Pay,Marseille,3,50.0
+10160,2025-11-10,Ecran 27 pouces,2,Carte Bleue,Bordeaux,6,300.0
+10161,2025-05-25,Clavier Mécanique,1,PayPal,Paris,4,
+10162,2025-03-08,Smartphone X,3,Carte Bleue,Lyon,5,799.0
+10163,2025-09-28,Enceinte Bluetooth,1,Apple Pay,Lille,2,120.0
+10164,2025-12-05,Casque Sans Fil,2,Carte Bleue,Marseille,6,150.0
+10165,2025-02-18,Souris Gaming,1,PayPal,Bordeaux,7,50.0
+10166,2025-07-12,Ecran 27 pouces,4,Carte Bleue,Paris,3,300.0
+10167,2025-01-30,Clavier Mécanique,2,Apple Pay,Lyon,5,80.0
+10168,2025-10-05,Smartphone X,1,Carte Bleue,Lille,4,799.0
+10169,2025-04-15,Enceinte Bluetooth,2,PayPal,Marseille,2,120.0
+10170,2025-08-18,Casque Sans Fil,1,Carte Bleue,Bordeaux,6,150.0
+10171,2025-06-05,Souris Gaming,3,Apple Pay,Paris,3,50.0
+10172,2025-11-25,Ecran 27 pouces,1,Carte Bleue,Lyon,4,300.0
+10173,2025-02-12,Clavier Mécanique,2,PayPal,Lille,5,80.0
+10174,2025-09-15,Smartphone X,1,Carte Bleue,Marseille,6,799.0
+10175,2025-05-30,Enceinte Bluetooth,1,Apple Pay,Bordeaux,2,120.0
+10176,2025-01-10,Casque Sans Fil,2,Carte Bleue,Paris,5,150.0
+10177,2025-03-12,Souris Gaming,1,PayPal,Lyon,3,50.0
+10178,2025-08-08,Ecran 27 pouces,3,Carte Bleue,Lille,7,300.0
+10179,2025-10-25,Clavier Mécanique,1,Apple Pay,Marseille,4,80.0
+10180,2025-04-20,Smartphone X,2,Carte Bleue,Bordeaux,5,799.0
+10181,2025-12-18,Enceinte Bluetooth,4,PayPal,Paris,6,120.0
+10182,2025-02-25,Casque Sans Fil,1,Carte Bleue,Lyon,2,150.0
+10183,2025-07-05,Souris Gaming,2,Apple Pay,Lille,4,50.0
+10184,2025-09-30,Ecran 27 pouces,1,Carte Bleue,Marseille,3,300.0
+10185,2025-11-12,Clavier Mécanique,3,PayPal,Bordeaux,6,80.0
+10186,2025-06-12,Smartphone X,1,Carte Bleue,Paris,5,799.0
+10187,2025-03-05,Enceinte Bluetooth,2,Apple Pay,Lyon,4,120.0
+10188,2025-01-14,Casque Sans Fil,1,Carte Bleue,Lille,7,150.0
+10189,2025-08-15,Souris Gaming,4,PayPal,Marseille,2,50.0
+10190,2025-10-02,Ecran 27 pouces,1,Carte Bleue,Bordeaux,5,
+10191,2025-04-28,Clavier Mécanique,2,Apple Pay,Paris,3,80.0
+10192,2025-12-28,Smartphone X,1,Carte Bleue,Lyon,6,799.0
+10193,2025-02-15,Enceinte Bluetooth,3,PayPal,Lille,4,120.0
+10194,2025-07-25,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10195,2025-11-08,Souris Gaming,2,Apple Pay,Bordeaux,2,50.0
+10196,2025-05-05,Ecran 27 pouces,1,Carte Bleue,Paris,7,300.0
+10197,2025-03-20,Clavier Mécanique,4,PayPal,Lyon,3,80.0
+10198,2025-09-18,Smartphone X,1,Carte Bleue,Lille,6,799.0
+10199,2025-01-22,Enceinte Bluetooth,1,Apple Pay,Marseille,4,120.0
+10200,2025-08-02,Casque Sans Fil,2,Carte Bleue,Bordeaux,5,150.0
+10201,2025-05-14,Souris Gaming,1,PayPal,Paris,3,50.0
+10202,2025-03-22,Ecran 27 pouces,2,Carte Bleue,Lyon,4,300.0
+10203,2025-09-11,Clavier Mécanique,1,Apple Pay,Lille,5,80.0
+10204,2025-01-05,Smartphone X,1,Carte Bleue,Marseille,2,799.0
+10205,2025-11-28,Enceinte Bluetooth,3,PayPal,Bordeaux,6,120.0
+10206,2025-06-18,Casque Sans Fil,1,Carte Bleue,Paris,5,150.0
+10207,2025-04-30,Souris Gaming,2,Apple Pay,Lyon,3,50.0
+10208,2025-12-14,Ecran 27 pouces,1,Carte Bleue,Lille,7,300.0
+10209,2025-02-22,Clavier Mécanique,3,PayPal,Marseille,4,80.0
+10210,2025-08-05,Smartphone X,1,Carte Bleue,Bordeaux,5,
+10211,2025-07-12,Enceinte Bluetooth,2,Apple Pay,Paris,3,120.0
+10212,2025-10-18,Casque Sans Fil,1,Carte Bleue,Lyon,6,150.0
+10213,2025-01-25,Souris Gaming,4,PayPal,Lille,2,50.0
+10214,2025-05-08,Ecran 27 pouces,1,Carte Bleue,Marseille,4,300.0
+10215,2025-09-22,Clavier Mécanique,2,Apple Pay,Bordeaux,5,80.0
+10216,2025-03-15,Smartphone X,1,Carte Bleue,Paris,7,799.0
+10217,2025-11-10,Enceinte Bluetooth,1,PayPal,Lyon,2,120.0
+10218,2025-04-05,Casque Sans Fil,3,Carte Bleue,Lille,4,150.0
+10219,2025-12-01,Souris Gaming,1,Apple Pay,Marseille,6,50.0
+10220,2025-02-18,Ecran 27 pouces,2,Carte Bleue,Bordeaux,3,300.0
+10221,2025-07-25,Clavier Mécanique,1,PayPal,Paris,4,80.0
+10222,2025-10-05,Smartphone X,3,Carte Bleue,Lyon,5,799.0
+10223,2025-01-12,Enceinte Bluetooth,1,Apple Pay,Lille,2,120.0
+10224,2025-06-30,Casque Sans Fil,2,Carte Bleue,Marseille,6,150.0
+10225,2025-08-15,Souris Gaming,1,PayPal,Bordeaux,7,50.0
+10226,2025-03-08,Ecran 27 pouces,4,Carte Bleue,Paris,3,300.0
+10227,2025-11-20,Clavier Mécanique,2,Apple Pay,Lyon,5,80.0
+10228,2025-05-12,Smartphone X,1,Carte Bleue,Lille,4,799.0
+10229,2025-09-05,Enceinte Bluetooth,2,PayPal,Marseille,2,120.0
+10230,2025-12-12,Casque Sans Fil,1,Carte Bleue,Bordeaux,6,150.0
+10231,2025-02-05,Souris Gaming,3,Apple Pay,Paris,3,50.0
+10232,2025-07-20,Ecran 27 pouces,1,Carte Bleue,Lyon,4,300.0
+10233,2025-10-10,Clavier Mécanique,2,PayPal,Lille,5,80.0
+10234,2025-04-02,Smartphone X,1,Carte Bleue,Marseille,6,799.0
+10235,2025-08-25,Enceinte Bluetooth,1,Apple Pay,Bordeaux,2,120.0
+10236,2025-06-05,Casque Sans Fil,2,Carte Bleue,Paris,5,150.0
+10237,2025-11-15,Souris Gaming,1,PayPal,Lyon,3,50.0
+10238,2025-01-22,Ecran 27 pouces,3,Carte Bleue,Lille,7,300.0
+10239,2025-09-18,Clavier Mécanique,1,Apple Pay,Marseille,4,80.0
+10240,2025-03-25,Smartphone X,2,Carte Bleue,Bordeaux,5,799.0
+10241,2025-12-08,Enceinte Bluetooth,4,PayPal,Paris,6,120.0
+10242,2025-02-22,Casque Sans Fil,1,Carte Bleue,Lyon,2,150.0
+10243,2025-07-30,Souris Gaming,2,Apple Pay,Lille,4,50.0
+10244,2025-10-12,Ecran 27 pouces,1,Carte Bleue,Marseille,3,300.0
+10245,2025-04-28,Clavier Mécanique,3,PayPal,Bordeaux,6,80.0
+10246,2025-01-30,Smartphone X,1,Carte Bleue,Paris,5,799.0
+10247,2025-08-02,Enceinte Bluetooth,2,Apple Pay,Lyon,4,120.0
+10248,2025-11-25,Casque Sans Fil,1,Carte Bleue,Lille,7,150.0
+10249,2025-05-05,Souris Gaming,4,PayPal,Marseille,2,50.0
+10250,2025-03-20,Ecran 27 pouces,1,Carte Bleue,Bordeaux,5,300.0
+10251,2025-09-15,Clavier Mécanique,2,Apple Pay,Paris,3,80.0
+10252,2025-12-20,Smartphone X,1,Carte Bleue,Lyon,6,799.0
+10253,2025-02-15,Enceinte Bluetooth,3,PayPal,Lille,4,120.0
+10254,2025-07-25,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10255,2025-10-20,Souris Gaming,2,Apple Pay,Bordeaux,2,50.0
+10256,2025-04-10,Ecran 27 pouces,1,Carte Bleue,Paris,7,300.0
+10257,2025-12-28,Clavier Mécanique,4,PayPal,Lyon,3,
+10258,2025-02-02,Smartphone X,1,Carte Bleue,Lille,6,799.0
+10259,2025-07-15,Enceinte Bluetooth,1,Apple Pay,Marseille,4,120.0
+10260,2025-11-02,Casque Sans Fil,2,Carte Bleue,Bordeaux,5,150.0
+10261,2025-05-18,Souris Gaming,1,PayPal,Paris,6,50.0
+10262,2025-03-10,Ecran 27 pouces,3,Carte Bleue,Lyon,2,300.0
+10263,2025-09-25,Clavier Mécanique,1,Apple Pay,Lille,4,80.0
+10264,2025-01-08,Smartphone X,2,Carte Bleue,Marseille,7,799.0
+10265,2025-08-12,Enceinte Bluetooth,1,PayPal,Bordeaux,3,120.0
+10266,2025-11-20,Casque Sans Fil,4,Carte Bleue,Paris,5,150.0
+10267,2025-06-30,Souris Gaming,1,Apple Pay,Lyon,6,50.0
+10268,2025-03-12,Ecran 27 pouces,2,Carte Bleue,Lille,2,300.0
+10269,2025-09-08,Clavier Mécanique,1,PayPal,Marseille,4,80.0
+10270,2025-12-18,Smartphone X,3,Carte Bleue,Bordeaux,7,799.0
+10271,2025-02-28,Enceinte Bluetooth,1,Apple Pay,Paris,5,120.0
+10272,2025-07-20,Casque Sans Fil,2,Carte Bleue,Lyon,4,150.0
+10273,2025-04-12,Souris Gaming,1,PayPal,Lille,3,50.0
+10274,2025-10-31,Ecran 27 pouces,4,Carte Bleue,Marseille,6,300.0
+10275,2025-01-20,Clavier Mécanique,1,Apple Pay,Bordeaux,2,80.0
+10276,2025-08-22,Smartphone X,2,Carte Bleue,Paris,5,799.0
+10277,2025-11-05,Enceinte Bluetooth,1,PayPal,Lyon,7,120.0
+10278,2025-06-15,Casque Sans Fil,3,Carte Bleue,Lille,4,150.0
+10279,2025-03-02,Souris Gaming,1,Apple Pay,Marseille,3,50.0
+10280,2025-09-10,Ecran 27 pouces,2,Carte Bleue,Bordeaux,6,300.0
+10281,2025-12-25,Clavier Mécanique,1,PayPal,Paris,4,80.0
+10282,2025-02-10,Smartphone X,3,Carte Bleue,Lyon,5,799.0
+10283,2025-07-05,Enceinte Bluetooth,1,Apple Pay,Lille,2,120.0
+10284,2025-11-12,Casque Sans Fil,2,Carte Bleue,Marseille,6,150.0
+10285,2025-05-30,Souris Gaming,1,PayPal,Bordeaux,7,50.0
+10286,2025-03-12,Ecran 27 pouces,4,Carte Bleue,Paris,3,300.0
+10287,2025-08-08,Clavier Mécanique,2,Apple Pay,Lyon,5,80.0
+10288,2025-10-25,Smartphone X,1,Carte Bleue,Lille,4,799.0
+10289,2025-04-20,Enceinte Bluetooth,2,PayPal,Marseille,2,120.0
+10290,2025-12-18,Casque Sans Fil,1,Carte Bleue,Bordeaux,6,150.0
+10291,2025-02-25,Souris Gaming,3,Apple Pay,Paris,3,50.0
+10292,2025-07-12,Ecran 27 pouces,1,Carte Bleue,Lyon,4,300.0
+10293,2025-01-30,Clavier Mécanique,2,PayPal,Lille,5,80.0
+10294,2025-10-05,Smartphone X,1,Carte Bleue,Marseille,6,799.0
+10295,2025-04-15,Enceinte Bluetooth,1,Apple Pay,Bordeaux,2,120.0
+10296,2025-08-18,Casque Sans Fil,2,Carte Bleue,Paris,5,150.0
+10297,2025-06-05,Souris Gaming,1,PayPal,Lyon,3,50.0
+10298,2025-11-25,Ecran 27 pouces,3,Carte Bleue,Lille,7,300.0
+10299,2025-02-12,Clavier Mécanique,1,Apple Pay,Marseille,4,80.0
+10300,2025-09-15,Smartphone X,2,Carte Bleue,Bordeaux,5,
+10303,2025-06-12,Casque Sans Fil,1,Carte Bleue,Lyon,3,150.0
+10304,2025-09-25,Souris Gaming,2,PayPal,Lille,4,50.0
+10305,2025-01-18,Ecran 27 pouces,1,Apple Pay,Marseille,6,300.0
+10306,2025-11-02,Clavier Mécanique,2,Carte Bleue,Bordeaux,2,80.0
+10307,2025-04-15,Smartphone X,1,PayPal,Paris,5,799.0
+10308,2025-08-28,Enceinte Bluetooth,3,Carte Bleue,Lyon,4,120.0
+10309,2025-03-22,Casque Sans Fil,1,Apple Pay,Lille,7,150.0
+10310,2025-10-05,Souris Gaming,1,Carte Bleue,Marseille,3,50.0
+10311,2025-12-14,Ecran 27 pouces,2,PayPal,Bordeaux,5,300.0
+10312,2025-02-18,Clavier Mécanique,1,Carte Bleue,Paris,4,80.0
+10313,2025-07-25,Smartphone X,1,Apple Pay,Lyon,6,799.0
+10314,2025-05-08,Enceinte Bluetooth,2,Carte Bleue,Lille,2,120.0
+10315,2025-11-20,Casque Sans Fil,1,PayPal,Marseille,3,
+10316,2025-01-30,Souris Gaming,3,Carte Bleue,Bordeaux,5,50.0
+10317,2025-06-15,Ecran 27 pouces,1,Apple Pay,Paris,4,300.0
+10318,2025-09-05,Clavier Mécanique,1,Carte Bleue,Lyon,7,80.0
+10319,2025-02-10,Smartphone X,2,PayPal,Lille,5,799.0
+10320,2025-08-12,Enceinte Bluetooth,1,Carte Bleue,Marseille,2,120.0
+10321,2025-12-05,Casque Sans Fil,2,Apple Pay,Bordeaux,6,150.0
+10322,2025-03-15,Souris Gaming,1,Carte Bleue,Paris,3,50.0
+10323,2025-10-18,Ecran 27 pouces,4,PayPal,Lyon,5,300.0
+10324,2025-04-28,Clavier Mécanique,1,Carte Bleue,Lille,2,80.0
+10325,2025-01-08,Smartphone X,1,Apple Pay,Marseille,4,799.0
+10326,2025-07-12,Enceinte Bluetooth,2,Carte Bleue,Bordeaux,6,120.0
+10327,2025-11-15,Casque Sans Fil,1,PayPal,Paris,5,150.0
+10328,2025-05-25,Souris Gaming,2,Carte Bleue,Lyon,3,50.0
+10329,2025-02-12,Ecran 27 pouces,1,Apple Pay,Lille,7,300.0
+10330,2025-09-15,Clavier Mécanique,3,Carte Bleue,Marseille,4,
+10331,2025-12-28,Smartphone X,1,PayPal,Bordeaux,2,799.0
+10332,2025-06-30,Enceinte Bluetooth,1,Carte Bleue,Paris,6,120.0
+10333,2025-03-08,Casque Sans Fil,2,Apple Pay,Lyon,3,150.0
+10334,2025-10-12,Souris Gaming,1,Carte Bleue,Lille,5,50.0
+10335,2025-04-02,Ecran 27 pouces,3,PayPal,Marseille,4,300.0
+10336,2025-01-22,Clavier Mécanique,1,Carte Bleue,Bordeaux,7,80.0
+10337,2025-08-02,Smartphone X,2,Apple Pay,Paris,2,799.0
+10338,2025-11-25,Enceinte Bluetooth,1,Carte Bleue,Lyon,5,120.0
+10339,2025-05-12,Casque Sans Fil,3,PayPal,Lille,6,150.0
+10340,2025-02-05,Souris Gaming,1,Carte Bleue,Marseille,2,50.0
+10341,2025-07-20,Ecran 27 pouces,2,Apple Pay,Bordeaux,4,300.0
+10342,2025-10-25,Clavier Mécanique,1,Carte Bleue,Paris,6,80.0
+10343,2025-04-10,Smartphone X,1,PayPal,Lyon,3,799.0
+10344,2025-12-20,Enceinte Bluetooth,1,Carte Bleue,Lille,5,120.0
+10345,2025-02-02,Casque Sans Fil,4,Apple Pay,Marseille,7,150.0
+10346,2025-07-15,Souris Gaming,1,Carte Bleue,Bordeaux,2,50.0
+10347,2025-11-08,Ecran 27 pouces,2,PayPal,Paris,4,300.0
+10348,2025-06-25,Clavier Mécanique,1,Carte Bleue,Lyon,6,80.0
+10349,2025-03-20,Smartphone X,3,Apple Pay,Lille,5,799.0
+10350,2025-09-18,Enceinte Bluetooth,1,Carte Bleue,Marseille,3,120.0
+10351,2025-12-08,Casque Sans Fil,2,PayPal,Bordeaux,7,150.0
+10352,2025-02-22,Souris Gaming,1,Carte Bleue,Paris,2,50.0
+10353,2025-07-30,Ecran 27 pouces,4,Apple Pay,Lyon,6,300.0
+10354,2025-10-02,Clavier Mécanique,1,Carte Bleue,Lille,4,80.0
+10355,2025-04-25,Smartphone X,2,PayPal,Marseille,5,799.0
+10356,2025-01-14,Enceinte Bluetooth,1,Carte Bleue,Bordeaux,3,120.0
+10357,2025-08-30,Casque Sans Fil,3,Apple Pay,Paris,7,150.0
+10358,2025-11-12,Souris Gaming,1,Carte Bleue,Lyon,2,50.0
+10359,2025-05-05,Ecran 27 pouces,2,PayPal,Lille,6,300.0
+10360,2025-03-25,Clavier Mécanique,1,Carte Bleue,Marseille,4,80.0
+10361,2025-10-31,Smartphone X,3,Apple Pay,Bordeaux,5,
+10362,2025-04-12,Enceinte Bluetooth,1,Carte Bleue,Paris,6,120.0
+10363,2025-12-18,Casque Sans Fil,2,PayPal,Lyon,3,150.0
+10364,2025-02-25,Souris Gaming,1,Carte Bleue,Lille,7,50.0
+10365,2025-07-05,Ecran 27 pouces,1,Apple Pay,Marseille,2,300.0
+10366,2025-09-30,Clavier Mécanique,4,Carte Bleue,Bordeaux,4,80.0
+10367,2025-11-25,Smartphone X,1,PayPal,Paris,5,799.0
+10368,2025-06-05,Enceinte Bluetooth,2,Carte Bleue,Lyon,3,120.0
+10369,2025-01-12,Casque Sans Fil,1,Apple Pay,Lille,6,150.0
+10370,2025-08-22,Souris Gaming,2,Carte Bleue,Marseille,4,50.0
+10371,2025-10-05,Ecran 27 pouces,1,PayPal,Bordeaux,7,300.0
+10372,2025-04-20,Clavier Mécanique,3,Carte Bleue,Paris,2,80.0
+10373,2025-12-18,Smartphone X,1,Apple Pay,Lyon,5,799.0
+10374,2025-02-15,Enceinte Bluetooth,2,Carte Bleue,Lille,4,120.0
+10375,2025-07-12,Casque Sans Fil,1,PayPal,Marseille,3,150.0
+10376,2025-11-08,Souris Gaming,4,Carte Bleue,Bordeaux,6,50.0
+10377,2025-05-30,Ecran 27 pouces,1,Apple Pay,Paris,2,
+10378,2025-03-12,Clavier Mécanique,2,Carte Bleue,Lyon,4,80.0
+10379,2025-08-08,Smartphone X,1,PayPal,Lille,5,799.0
+10380,2025-10-25,Enceinte Bluetooth,3,Carte Bleue,Marseille,6,120.0
+10381,2025-04-15,Casque Sans Fil,1,Apple Pay,Bordeaux,3,150.0
+10382,2025-12-18,Souris Gaming,2,Carte Bleue,Paris,7,50.0
+10383,2025-02-28,Ecran 27 pouces,1,PayPal,Lyon,2,300.0
+10384,2025-07-05,Clavier Mécanique,4,Carte Bleue,Lille,4,80.0
+10385,2025-11-12,Smartphone X,1,Apple Pay,Marseille,5,799.0
+10386,2025-05-18,Enceinte Bluetooth,2,Carte Bleue,Bordeaux,6,120.0
+10387,2025-03-10,Casque Sans Fil,1,PayPal,Paris,3,150.0
+10388,2025-09-25,Souris Gaming,3,Carte Bleue,Lyon,7,50.0
+10389,2025-01-08,Ecran 27 pouces,1,Apple Pay,Lille,4,300.0
+10390,2025-08-12,Clavier Mécanique,2,Carte Bleue,Marseille,5,80.0
+10391,2025-10-18,Smartphone X,1,PayPal,Bordeaux,2,799.0
+10392,2025-04-12,Enceinte Bluetooth,4,Carte Bleue,Paris,6,120.0
+10393,2025-12-25,Casque Sans Fil,1,Apple Pay,Lyon,3,150.0
+10394,2025-02-14,Souris Gaming,2,Carte Bleue,Lille,7,50.0
+10395,2025-07-08,Ecran 27 pouces,1,PayPal,Marseille,4,300.0
+10396,2025-11-05,Clavier Mécanique,3,Carte Bleue,Bordeaux,5,80.0
+10397,2025-06-15,Smartphone X,1,Apple Pay,Paris,2,799.0
+10398,2025-03-02,Enceinte Bluetooth,2,Carte Bleue,Lyon,6,120.0
+10399,2025-09-10,Casque Sans Fil,1,PayPal,Lille,3,150.0
+10400,2025-12-05,Souris Gaming,4,Carte Bleue,Marseille,7,50.0
+10601,2025-07-05,Ecran 27 pouces,1,Carte Bleue,Paris,6,300.0
+10602,2025-11-12,Clavier Mécanique,2,Apple Pay,Lyon,3,80.0
+10603,2025-05-30,Smartphone X,1,Carte Bleue,Lille,7,799.0
+10604,2025-03-12,Enceinte Bluetooth,2,PayPal,Marseille,4,120.0
+10605,2025-08-08,Casque Sans Fil,1,Carte Bleue,Bordeaux,5,150.0
+10606,2025-10-25,Souris Gaming,3,Apple Pay,Paris,2,50.0
+10607,2025-04-20,Ecran 27 pouces,1,Carte Bleue,Lyon,6,300.0
+10608,2025-12-18,Clavier Mécanique,2,PayPal,Lille,3,80.0
+10609,2025-02-25,Smartphone X,1,Carte Bleue,Marseille,7,799.0
+10610,2025-07-12,Enceinte Bluetooth,2,Apple Pay,Bordeaux,4,120.0
+10611,2025-01-30,Casque Sans Fil,1,Carte Bleue,Paris,5,150.0
+10612,2025-10-05,Souris Gaming,4,PayPal,Lyon,2,50.0
+10613,2025-04-15,Ecran 27 pouces,1,Carte Bleue,Lille,6,300.0
+10614,2025-08-18,Clavier Mécanique,3,Apple Pay,Marseille,3,80.0
+10615,2025-06-05,Smartphone X,1,Carte Bleue,Bordeaux,7,799.0
+10616,2025-11-25,Enceinte Bluetooth,2,PayPal,Paris,4,120.0
+10617,2025-02-12,Casque Sans Fil,1,Carte Bleue,Lyon,5,150.0
+10618,2025-09-15,Souris Gaming,2,Apple Pay,Lille,2,50.0
+10619,2025-05-30,Ecran 27 pouces,1,Carte Bleue,Marseille,6,300.0
+10620,2025-01-10,Clavier Mécanique,4,PayPal,Bordeaux,3,80.0
+10621,2025-03-12,Smartphone X,1,Carte Bleue,Paris,7,799.0
+10622,2025-08-08,Enceinte Bluetooth,2,Apple Pay,Lyon,4,120.0
+10623,2025-10-25,Casque Sans Fil,1,Carte Bleue,Lille,5,150.0
+10624,2025-04-20,Souris Gaming,3,PayPal,Marseille,2,50.0
+10625,2025-12-18,Ecran 27 pouces,1,Carte Bleue,Bordeaux,6,300.0
+10626,2025-02-25,Clavier Mécanique,2,Apple Pay,Paris,3,
+10627,2025-07-05,Smartphone X,1,Carte Bleue,Lyon,7,799.0
+10628,2025-09-30,Enceinte Bluetooth,3,PayPal,Lille,4,120.0
+10629,2025-11-12,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10630,2025-06-12,Souris Gaming,2,Apple Pay,Bordeaux,2,50.0
+10631,2025-03-05,Ecran 27 pouces,1,Carte Bleue,Paris,6,300.0
+10632,2025-01-14,Clavier Mécanique,3,PayPal,Lyon,3,80.0
+10633,2025-08-15,Smartphone X,1,Carte Bleue,Lille,7,799.0
+10634,2025-10-02,Enceinte Bluetooth,2,Apple Pay,Marseille,4,120.0
+10635,2025-04-28,Casque Sans Fil,1,Carte Bleue,Bordeaux,5,150.0
+10636,2025-12-28,Souris Gaming,4,PayPal,Paris,2,50.0
+10637,2025-02-15,Ecran 27 pouces,1,Carte Bleue,Lyon,6,300.0
+10638,2025-07-25,Clavier Mécanique,2,Apple Pay,Lille,3,80.0
+10639,2025-11-08,Smartphone X,1,Carte Bleue,Marseille,7,799.0
+10640,2025-05-05,Enceinte Bluetooth,3,PayPal,Bordeaux,4,120.0
+10641,2025-03-20,Casque Sans Fil,1,Carte Bleue,Paris,5,150.0
+10642,2025-09-18,Souris Gaming,2,Apple Pay,Lyon,2,50.0
+10643,2025-01-22,Ecran 27 pouces,1,Carte Bleue,Lille,6,300.0
+10644,2025-08-02,Clavier Mécanique,4,PayPal,Marseille,3,80.0
+10645,2025-10-15,Smartphone X,1,Carte Bleue,Bordeaux,7,799.0
+10646,2025-04-10,Enceinte Bluetooth,2,Apple Pay,Paris,4,120.0
+10647,2025-12-20,Casque Sans Fil,1,Carte Bleue,Lyon,5,150.0
+10648,2025-02-02,Souris Gaming,3,PayPal,Lille,2,50.0
+10649,2025-07-15,Ecran 27 pouces,1,Carte Bleue,Marseille,6,300.0
+10650,2025-11-02,Clavier Mécanique,2,Apple Pay,Bordeaux,3,80.0
+10651,2025-06-25,Smartphone X,1,Carte Bleue,Paris,7,799.0
+10652,2025-01-12,Enceinte Bluetooth,3,PayPal,Lyon,4,120.0
+10653,2025-08-28,Casque Sans Fil,1,Carte Bleue,Lille,5,150.0
+10654,2025-03-15,Souris Gaming,2,Apple Pay,Marseille,2,50.0
+10655,2025-10-20,Ecran 27 pouces,1,Carte Bleue,Bordeaux,6,300.0
+10656,2025-04-05,Clavier Mécanique,4,PayPal,Paris,3,80.0
+10657,2025-12-08,Smartphone X,1,Carte Bleue,Lyon,7,799.0
+10658,2025-02-22,Enceinte Bluetooth,2,Apple Pay,Lille,4,120.0
+10659,2025-07-30,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10660,2025-10-02,Souris Gaming,3,PayPal,Bordeaux,2,50.0
+10661,2025-04-25,Ecran 27 pouces,1,Carte Bleue,Paris,6,300.0
+10662,2025-01-14,Clavier Mécanique,2,Apple Pay,Lyon,3,80.0
+10663,2025-08-30,Smartphone X,1,Carte Bleue,Lille,7,799.0
+10664,2025-11-12,Enceinte Bluetooth,3,PayPal,Marseille,4,120.0
+10665,2025-05-05,Casque Sans Fil,1,Carte Bleue,Bordeaux,5,150.0
+10666,2025-03-25,Souris Gaming,2,Apple Pay,Paris,2,50.0
+10667,2025-10-31,Ecran 27 pouces,1,Carte Bleue,Lyon,6,300.0
+10668,2025-04-12,Clavier Mécanique,4,PayPal,Lille,3,80.0
+10669,2025-12-18,Smartphone X,1,Carte Bleue,Marseille,7,
+10670,2025-02-25,Enceinte Bluetooth,2,Apple Pay,Bordeaux,4,120.0
+10671,2025-07-05,Casque Sans Fil,1,Carte Bleue,Paris,5,150.0
+10672,2025-09-30,Souris Gaming,3,PayPal,Lyon,2,50.0
+10673,2025-11-25,Ecran 27 pouces,1,Carte Bleue,Lille,6,300.0
+10674,2025-06-05,Clavier Mécanique,2,Apple Pay,Marseille,3,80.0
+10675,2025-01-12,Smartphone X,1,Carte Bleue,Bordeaux,7,799.0
+10676,2025-08-22,Enceinte Bluetooth,3,PayPal,Paris,4,120.0
+10677,2025-10-05,Casque Sans Fil,1,Carte Bleue,Lyon,5,150.0
+10678,2025-04-20,Souris Gaming,2,Apple Pay,Lille,2,50.0
+10679,2025-12-18,Ecran 27 pouces,1,Carte Bleue,Marseille,6,300.0
+10680,2025-02-15,Clavier Mécanique,4,PayPal,Bordeaux,3,80.0
+10681,2025-07-12,Smartphone X,1,Carte Bleue,Paris,7,799.0
+10682,2025-11-08,Enceinte Bluetooth,2,Apple Pay,Lyon,4,120.0
+10683,2025-05-30,Casque Sans Fil,1,Carte Bleue,Lille,5,150.0
+10684,2025-03-12,Souris Gaming,3,PayPal,Marseille,2,50.0
+10685,2025-08-08,Ecran 27 pouces,1,Carte Bleue,Bordeaux,6,300.0
+10686,2025-10-25,Clavier Mécanique,2,Apple Pay,Paris,3,80.0
+10687,2025-04-15,Smartphone X,1,Carte Bleue,Lyon,7,799.0
+10688,2025-12-18,Enceinte Bluetooth,3,PayPal,Lille,4,120.0
+10689,2025-02-28,Casque Sans Fil,1,Carte Bleue,Marseille,5,150.0
+10690,2025-07-05,Souris Gaming,2,Apple Pay,Bordeaux,2,50.0
+10691,2025-11-12,Ecran 27 pouces,1,Carte Bleue,Paris,6,300.0
+10692,2025-05-18,Clavier Mécanique,4,PayPal,Lyon,3,80.0
+10693,2025-03-10,Smartphone X,1,Carte Bleue,Lille,7,799.0
+10694,2025-09-25,Enceinte Bluetooth,2,Apple Pay,Marseille,4,120.0
+10695,2025-01-08,Casque Sans Fil,1,Carte Bleue,Bordeaux,5,150.0
+10696,2025-08-12,Souris Gaming,3,PayPal,Paris,2,50.0
+10697,2025-10-18,Ecran 27 pouces,1,Carte Bleue,Lyon,6,300.0
+10698,2025-04-12,Clavier Mécanique,2,Apple Pay,Lille,3,80.0
+10699,2025-12-25,Smartphone X,1,Carte Bleue,Marseille,7,799.0
+10700,2025-02-14,Enceinte Bluetooth,3,PayPal,Bordeaux,4,120.0
+10001,2025-04-12,Smartphone X,2,Carte Bleue,Paris,3,799.0
+10002,2025-08-22,Casque Sans Fil,1,PayPal,Lyon,5,150.0
+10003,2025-01-05,Souris Gaming,3,Carte Bleue,Lille,2,50.0
